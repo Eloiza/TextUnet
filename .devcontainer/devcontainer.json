@@ -1,0 +1,16 @@
+{
+  "name": "Python 3",
+  "image": "mcr.microsoft.com/devcontainers/python:0-3.8",
+  
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "streetsidesoftware.code-spell-checker",
+          "ms-python.vscode-pylance",
+          "ms-python.python",
+          "esbenp.prettier-vscode",
+          "KevinRose.vsc-python-indent"
+		    ]
+      }
+    }
+}
